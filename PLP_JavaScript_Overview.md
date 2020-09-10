@@ -7,7 +7,7 @@ As one might guess from the name, it is a scripting language with object oriente
 
 # History
 
-JavaScript was created by Brendan Eich and Netscape in 1995. At the time webpages were static, and they create JavaScript to allow for dynamic content.
+JavaScript was created by Brendan Eich and Netscape in 1995. At the time webpages were static, and they created JavaScript to allow for dynamic content.
 
 # Usage
 
@@ -18,7 +18,7 @@ The most popular Github.com projects related to JavaScript right now are:
 2. A framework for building UI on the web https://github.com/vuejs/vue
 3. A library for building user interfaces https://github.com/facebook/react
 
-#Resources
+# Resources
 
 For my work this semster, I will primarily be using "JavaScript The Definitive Guide 7th Edition" and the documentation provided by Mozilla: https://developer.mozilla.org/en-US/docs/Web/JavaScript. I will also be supplementing this with sources from w3schools.com and codeacademy.com.
 Additionally, I may use StackOverflow.com as a last resort, but will try to be cautious of incorrect answers.
