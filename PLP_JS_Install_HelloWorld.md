@@ -43,5 +43,7 @@ Comments in JavaScript are written like this:
 	
 # Sources
 https://fireship.io/courses/javascript/beginner-js-where-to-run/, Accessed Sept. 17, 2020
+
 https://jaxenter.com/top-5-javascript-ide-146609.html, Accessed Sept. 17, 2020
+
 http://www.tizag.com/javascriptT/javascriptcomment.php#:~:text=Creating%20Single%20Line%20Comments,ignored%2C%20until%20the%20next%20line., Accessed Sept. 17, 2020
