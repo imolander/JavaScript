@@ -7,13 +7,15 @@ JavaScript is primarily used with web applications. We will be going over how to
 Node.js can be installed on any operating system to run JavaScript code. NodeJS can we installed from https://nodejs.org/en/download/.
 
 To check if you already have Node.js installed you can open a command prompt and type:
+
 	node -v
 
 If you already have Node.js installed it will tell you what version you are running, if not it will give an error message.
 
 If you don't want to run your code from the command line, JavaScript is also supported on a number of integrated development environments (IDEs), which come with additional features such as built in debugging and git integration.
 To see a list of the most popular IDEs go to: https://jaxenter.com/top-5-javascript-ide-146609.html
-Many of these IDEs have a cost associated with them but some also offer free versions to students, such as JetBrain's Webstorm IDE.
+
+Many of these IDEs have a cost associated with them, but some also offer free versions to students, such as JetBrain's Webstorm IDE.
 
 You can install both an IDE and Node.js to run your code; these are not mutually exclusive.
 
@@ -36,6 +38,7 @@ This is simply the console.log command which prints to the console with a semi c
 
 # Comments
 Comments in JavaScript are written like this:
+
 	// This is a comment!
 	
 # Sources
