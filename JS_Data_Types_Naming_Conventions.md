@@ -20,11 +20,15 @@ The following are types of objects:
 	* Date
 	
 The following do not contain any value:
+
 	null
+	
 	undefined
 
 To figure out the data type of a variable you can used
+
 	typeof 
+	
 Please note that you cannot use typeof to determine Array or Date, these will simply return object.
 # Naming Conventions
 
