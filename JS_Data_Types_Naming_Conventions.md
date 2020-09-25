@@ -5,6 +5,7 @@ JavaScript has less strict rules than many other languages when it comes to data
 # Creating Variables
 
 JavaScript is a dynamically and weakly typed language, meaning variables can change data types and the programmer does not have to declare the type. To create a variable simply put the keyword "var" before your variable name:
+	
 	var myString = "This is a string!";
 	
 There are five different data types:
@@ -46,7 +47,7 @@ to reserve uppercase for global variables, but it can be used to name variables 
 # Potential for Problems
 
 Because of JavaScript's flexibilty with data types, many of the issues that would cause compiler errors in other languages are not an issue. For example, when adding a string and a number the compiler will interpret it as two strings, and simply concatonate them.
-However, this concatanation can cause errors in the below example:
+However, this concatanation can cause confusion such as in the example below:
 
 	var a = 7;
 	var b = 9;
