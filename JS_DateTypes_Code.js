@@ -18,7 +18,7 @@ console.log("Variable: ", array, "\t Type: ", typeof array);
 console.log("Variable: ", hashTable, "\t Type: ", typeof hashTable);
 console.log("-----------------------------------------------\n");
 
-//testing out the limits of JS date types
+//testing out common errors for data types
 console.log("Adding a number and a string:");
 console.log(string, " + ", number, " = ", string+number);
 
@@ -30,9 +30,10 @@ console.log("Array after pushing a number: ", array);
 console.log("\nAdding ints and floats");
 console.log(number, " + ", decimalNumber, " = ", number+decimalNumber);
 
-console.log("\nChanging types:");
+
+
+console.log("\nType Conversions:");
 console.log("This is a ", typeof string, ": ", string);
 string = 7;
 console.log("Now, this is a ", typeof string, ": ", string);
-
 console.log("-----------------------------------------------\n");
