@@ -9,29 +9,29 @@ JavaScript is a dynamically and weakly typed language, meaning variables can cha
 	
 There are five different data types:
 
-	* string
+* string
 	
-	* number
+* number
 	
-	* boolean
+* boolean
 	
-	* object
+* object
 	
-	* function
+* function
 	
 The following are types of objects:
 
-	* Object
+* Object
 	
-	* Array
+* Array
 	
-	* Date
+* Date
 	
 The following do not contain any value:
 
-	null
+* null
 	
-	undefined
+* undefined
 
 To figure out the data type of a variable you can use
 
@@ -66,7 +66,13 @@ JavaScript conversions are widening, meaning they are less likely to lose data. 
 # Sources
 
 https://www.w3schools.com/js/js_datatypes.asp, Accessed Sept. 24, 2020
+
 https://www.w3schools.com/js/js_conventions.asp, Accessed Sept. 24, 2020
+
 https://www.freecodecamp.org/news/javascript-naming-conventions-dos-and-don-ts-99c0e2fdd78a/, Accessed Sept. 24, 2020
+
 http://www.mojavelinux.com/articles/javascript_hashes.html,  Accessed Sept. 24, 2020
+
 https://www.w3schools.com/js/js_type_conversion.asp,  Accessed Sept. 24, 2020
+
+https://www.w3schools.com/js/js_numbers.asp,  Accessed Sept. 24, 2020
