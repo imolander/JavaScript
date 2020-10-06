@@ -1,6 +1,6 @@
 # JavaScript Control Flow
 
-JavaScript offers many of the common conditional statements, loops, and switches to chaneg the flow of program control
+JavaScript offers many of the common conditional statements, loops, and switches to change the flow of program control.
 
 # Conditionals
 
@@ -16,7 +16,7 @@ JavaScript uses if/else if/else statements to evaluate conditionals such as:
 		//code to be executed if neither condition1 nor condition2 are true
 	}
 
-To see examples of condtionals and all the other control flow mechanisms mentioned in this tutorial, refer to the file JS_Control_Flow_Code.js in this repository.
+To see examples of conditonals and all the other control flow mechanisms mentioned in this tutorial, refer to the file JS_Control_Flow_Code.js in this repository.
 
 JavaScript does use short circuit evaluation. This means that when we write an or stament:
 	
@@ -66,9 +66,15 @@ The above example will print out 0 1 2 3 5. It will skip 4 because of the contin
 
 # Sources
 https://www.w3schools.com/js/js_loop_while.asp, Accessed Oct. 6th 2020
+
 https://www.w3schools.com/js/js_loop_for.asp, Accessed Oct. 6th 2020
+
 https://www.w3schools.com/js/js_comparisons.asp, Accessed Oct. 6th 2020
+
 https://www.w3schools.com/js/js_if_else.asp, Accessed Oct. 6th 2020
+
 https://www.w3schools.com/js/js_switch.asp, Accessed Oct. 6th 2020
+
 https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c, Accessed Oct. 6th 2020
+
 https://help.semmle.com/wiki/pages/viewpage.action?pageId=29393859,  Accessed Oct. 6th 2020

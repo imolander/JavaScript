@@ -95,10 +95,3 @@ for (i = 0; i <6; i++) {
 	}
 	console.log("The number is not 4. It is " + i);
 }
-
-//danlging else
-	var x = 5;
-if (x > 0)
-if (x < 10)
-else
-	console.log("blah");
