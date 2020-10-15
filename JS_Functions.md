@@ -1,10 +1,10 @@
 # JavaScript Functions
 
-Functions can be used in JavaScript for repitive code.
+Functions can be used in JavaScript for repetitive code.
 
 # Syntax
 
-Functions in JavaScript are declared using the function keyword followed by parenthesis:
+Functions in JavaScript are declared using the function keyword followed by parentheses:
 
 	function myFunction(parameter){
 		//code to be executed goes here
