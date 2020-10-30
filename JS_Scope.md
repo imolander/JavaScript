@@ -18,11 +18,11 @@ Refer to the code provided, JS_Scope_Code, to see examples of global variables, 
 
 # Let vs Var
 
-There are three key words that you can use to declare variables in JavaScript: const, let, and var. Const declares constants, var decalres global variables, and let declares local variable.
+There are three key words that you can use to declare variables in JavaScript: const, let, and var. Const declares constants, var declares global variables, and let declares local variable.
 
-# Loop and Functions
+# Loops and Functions
 
-When using the let declaration variables declared in a loop or a funtion will only be accessible in those code blocks.
+When using the let declaration, variables declared in a loop or a funtion will only be accessible in those code blocks.
 
 # Pass by Value vs Pass by Reference (revisited)
 
